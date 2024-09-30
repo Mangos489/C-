@@ -1,7 +1,4 @@
-// Name: Emanuel Cruz
-// SSID: 8164200
-// Assignment #: 1
-// Submission Date: 9/29/2024
+
 //
 // Description: A program to encrypt and decrypt a message using a shift cipher
 // The plaintext message must only contain lowercase alpha and digits 0-9
